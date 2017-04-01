@@ -1,4 +1,4 @@
-这是我为CMU 11642 作业自动测试代码所写的脚本。可以自动跑网站右侧的Software Test Service，也能自动跑网站左侧的trec_eval Service测试。
+这是我为CMU 11642 作业自动测试代码所写的脚本。可以自动跑网站右侧的Software Test Service，也能自动跑网站左侧的trec_eval Service测试，得到summary score，detail score，win-loss。
 
 欢迎使用，若有修改和指正，请也发一份copy让我参考参考，谢谢。
 
